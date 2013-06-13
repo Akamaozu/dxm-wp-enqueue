@@ -293,6 +293,7 @@
 			|- Class Instance
 				|-> get_enqueue_hook
 				|-> register
+				|-> enqueue
 				|-> init_instance
 		*/
 
